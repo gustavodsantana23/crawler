@@ -1,0 +1,36 @@
+Artistas:
+	Foto
+	Localização
+	-Talentos
+		Instrumentos
+		Estilos
+		Influências
+	Seguidores/Seguindo
+	Sobre
+
+Músicos:
+10	Foto
+10	Localização
+3	-Talentos
+		Instrumentos
+		Estilos
+		Influências
+n	Seguidores/Seguindo
+3	Sobre
+10	email
+8	links
+10	- Mídias
+		Vídeos
+
+38
+
+Fazer:
+- Lista de aprovados
+- Histograma
+
+
+Comparação simples com banda do facebook:
+	Fotos
+	Vídeos
+	Sobre
+	Contatos
